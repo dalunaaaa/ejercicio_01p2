@@ -1,0 +1,25 @@
+.seccion_1{
+    max-width: 39.5rem;
+    height: 20rem;
+    margin: auto;
+    background-color: rgb(236, 195, 141);
+}
+.seccion_1 h1{
+
+    align-self: center;
+    padding: 0 6rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+ .parr{
+    width: 18rem;
+    height: 20rem;
+
+    display: flex;
+    justify-content: center;
+
+
+ }
